@@ -1,0 +1,22 @@
+mathmatics operator
+addition
+a=3
+b=5
+print(a+b)
+
+subtraction
+a=19
+b=40
+print(a-b)
+
+
+multiplication
+a=23
+b=56
+print(a*b)
+
+
+division
+a=45
+b=3
+print(a/b)
